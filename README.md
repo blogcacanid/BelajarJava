@@ -1,2 +1,2 @@
-# belajar-java
+# BelajarJava
 Belajar Java
